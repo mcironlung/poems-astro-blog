@@ -2,37 +2,10 @@
 layout: ../layouts/AboutLayout.astro
 title: About
 ---
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+![Valerie Ward](../images/valeriewardprofile.jpg)
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by default and additional color schemes can also be configured.
+Hi, I'm Valerie Ward, but you can call me Val. Born and raised in Newport, Tennessee, I grew up surrounded by hills, fields, and endless sky. Poetry has been my passion since childhood, a way to explore and process the world.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+After studying at [University of Tennessee](https://www.utk.edu), my husband and I moved to Billings, Montana. While working in education and raising a family, I continued writing — and now, with *Poems About Everything*, I’m sharing my work.
 
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-*   fully responsive and accessible
-    
-*   SEO-friendly
-    
-*   light & dark mode
-    
-*   fuzzy search
-    
-*   super fast performance
-    
-*   draft posts
-    
-*   pagination
-    
-*   sitemap & rss feed
-    
-*   highly customizable
-    
-
-I need to update this page.
+If you're reading my poems, know some are polished while others are evolving. Feel free to share kind thoughts or feedback via val[at]poemsabouteverything.com.
