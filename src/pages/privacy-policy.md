@@ -134,7 +134,7 @@ We honor Do Not Track signals and Do Not Track, plant cookies, or use advertisin
 Does our site allow third-party behavioral tracking?
 ----------------------------------------------------
 
-It��s also important to note that we allow third-party behavioral tracking
+It's also important to note that we allow third-party behavioral tracking
 
 COPPA (Children Online Privacy Protection Act)
 ----------------------------------------------
