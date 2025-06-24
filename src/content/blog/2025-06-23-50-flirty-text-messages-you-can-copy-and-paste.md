@@ -6,7 +6,7 @@ slug: 50-flirty-text-messages-you-can-copy-and-paste
 featured: false
 draft: false
 description: Are you looking to add a little spark to your texts? These 50 flirty text messages are sure to make a hit with your loved one.
-tags: ["poems", "test"]
+tags: ["poems"]
 ---
 ![Flirty text message poems](../../assets/images/flirty-text-message-poems.jpeg)
 
