@@ -8,7 +8,7 @@ draft: false
 description: Are you looking to add a little spark to your texts? These 50 flirty text messages are sure to make a hit with your loved one.
 tags: ["poems"]
 ---
-![thank you poems for pastors](../../assets/images/thank%20you%20pastor%20poems.jpeg)
+![thank you poems for pastors](../../assets/images/thank-you-pastor-poems.jpeg)
 
 In the tapestry of community, where every thread has its role, the work of a pastor weaves through the very heart of it, binding us together in moments of joy, sorrow, and reflection. It's a role that transcends the boundaries of mere duty, touching the essence of empathy, guidance, and unwavering support.
 
