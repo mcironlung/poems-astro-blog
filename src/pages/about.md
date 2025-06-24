@@ -2,7 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 title: About
 ---
-![Valerie Ward](../images/valeriewardprofile.jpg)
+![Valerie Ward](../assets/images/valeriewardprofile.jpg)
 
 Hi, I'm Valerie Ward, but you can call me Val. Born and raised in Newport, Tennessee, I grew up surrounded by hills, fields, and endless sky. Poetry has been my passion since childhood, a way to explore and process the world.
 
