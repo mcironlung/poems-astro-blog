@@ -2,7 +2,6 @@
 layout: ../layouts/AboutLayout.astro
 title: Privacy Policy
 ---
-# Privacy Policy - Poems About Everything
 Privacy Policy for Poems About Everything (poemsabouteverything.com)
 --------------------------------------------------------------------
 
